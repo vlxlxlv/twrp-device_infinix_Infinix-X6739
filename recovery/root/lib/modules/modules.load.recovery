@@ -209,3 +209,4 @@ tran_auto_test.ko
 st21nfc.ko
 transsion_thermal_ntc.ko
 tran_perf_util.ko
+aw862xx_haptic.ko
