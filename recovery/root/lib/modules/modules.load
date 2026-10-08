@@ -182,3 +182,6 @@ tkv.ko
 tkv_recovery.ko
 tran_auto_test.ko
 transsion_thermal_ntc.ko
+flashlight.ko
+aw36515.ko
+mtk-composite.ko

@@ -210,3 +210,6 @@ st21nfc.ko
 transsion_thermal_ntc.ko
 tran_perf_util.ko
 aw862xx_haptic.ko
+aw36515.ko
+flashlight.ko
+mtk-composite.ko

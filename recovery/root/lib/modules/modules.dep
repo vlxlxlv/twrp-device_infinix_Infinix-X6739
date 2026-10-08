@@ -218,3 +218,7 @@
 /lib/modules/mac80211.ko: /lib/modules/cfg80211.ko
 /lib/modules/mtk_mdpm.ko:
 /lib/modules/aw862xx_haptic.ko:
+/lib/modules/flashlight.ko:
+/lib/modules/aw36515.ko: /lib/modules/flashlight.ko
+/lib/modules/mtk-composite.ko:
+

@@ -1063,3 +1063,10 @@ alias of:N*T*Cmediatek,mt6855-mdpmC* mtk_mdpm
 alias of:N*T*Cmediatek,mt6789-mdpm mtk_mdpm
 alias of:N*T*Cmediatek,mt6789-mdpmC* mtk_mdpm
 alias i2c:haptic_nv aw862xx_haptic
+alias i2c:flashlights-aw36515 aw36515                         
+alias of:N*T*Cmediatek,flashlights_aw36515 aw36515
+alias of:N*T*Cmediatek,flashlights_aw36515C* aw36515
+alias of:N*T*Cmediatek,flashlight_core flashlight
+alias of:N*T*Cmediatek,flashlight_coreC* flashlight
+alias of:N*T*Cmediatek,strobe_main aw36515
+alias of:N*T*Cmediatek,strobe_mainC* aw36515
